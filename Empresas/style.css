@@ -35,13 +35,10 @@
 
       font-family: "Times", serif;
       overflow:hidden;
+}
 
-
-
-
-
-
-
+table tbody tr {
+  height: 30px;
 }
 
 .card{
